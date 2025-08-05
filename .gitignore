@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Egg & wheel metadata
+*.egg-info/
+dist/
+build/
+
+# VS Code, PyCharm 등 IDE
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
